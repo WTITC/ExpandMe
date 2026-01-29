@@ -33,7 +33,7 @@ const Essence = () => {
     { 
       icon: TrendingUp, 
       title: "Zero-Risk Growth", 
-      description: "Leveraging 0% tax advantages and expert strategic support to ensure profitable and sustainable international scaling." 
+      description: "Leveraging 0% income tax advantages and expert strategic support to ensure profitable and sustainable international scaling." 
     },
   ];
 
@@ -78,7 +78,7 @@ const Essence = () => {
               
               <p className="text-base max-w-lg text-gray-400 mb-8"> {/* Added mb-8 for separation from button */}
                 We provide complete end-to-end support for global expansion—including setting up companies 
-                with **100% ownership**, enjoying **0% tax advantages**, and ensuring fast company 
+                with **100% ownership**, enjoying **0% income tax advantages**, and ensuring fast company 
                 formation within just **48 hours**. Our expert assistance covers legal, strategic, 
                 and operational areas, enabling entrepreneurs to confidently enter new markets.
               </p>
@@ -92,7 +92,7 @@ const Essence = () => {
             <div className="hidden md:flex justify-center items-center">
               <img 
                   src={assn} 
-                  alt="ExpandME core promises: 100% Ownership, 0% Tax, 48-Hour Company Setup, India to UAE Global Expansion Accelerated" 
+                  alt="ExpandME core promises: 100% Ownership, 0% income Tax, 48-Hour Company Setup, India to UAE Global Expansion Accelerated" 
                   className="w-full h-auto max-w-lg object-contain"
               />
             </div>

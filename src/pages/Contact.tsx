@@ -15,8 +15,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      detail: "maddukuriyamini@gmail.com",
-      link: "mailto:maddukuriyamini@gmail.com",
+      detail: "expandmeglobal@gmail.com",
+      link: "mailto:expandmeglobal@gmail.com",
     },
     {
       icon: MessageCircle,

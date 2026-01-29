@@ -9,7 +9,6 @@ import { Link } from "react-router-dom";
 // --- 1. ASSET IMPORTS ---
 import sundeepPhoto from "@/assets/sundeep.jpeg"; 
 import newsClipping from "@/assets/new.jpeg"; // Updated to your saved name
-import heroDubai from "@/assets/wtitc.jpeg";
 import rakCoast from "@/assets/rak-coast.jpg";
 import sharjahCulture from "@/assets/sharjah-culture.jpg";
 import ummAlQuwain from "@/assets/umm ai qawain.png";
@@ -74,12 +73,6 @@ const carouselImages = [
     alt: "Leadership",
     title: "Visionary Leadership",
     description: "Spearheading global initiatives for the tech community.",
-  },
-  {
-    src: heroDubai,
-    alt: "Dubai Gateway",
-    title: "Global Bridge: UAE Gateway",
-    description: "Connecting world-class innovation to Middle Eastern markets.",
   },
   {
     src: rakCoast,
